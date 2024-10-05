@@ -28,5 +28,5 @@ Missing Security Headers (Medium to Low Risk)
  Risk Assessment Summary
 The identified vulnerabilities have been rated based on their potential impact and the likelihood of exploitation. Immediate attention should be given to "Critical" and "High" risk vulnerabilities due to their potential for significant damage. While the "Medium" and "Low" risk issues are considered lower priority, they still require remediation to ensure comprehensive security. Risk ratings should be reassessed regularly as part of an ongoing security program, considering the specific context of the application and the organization's risk tolerance.
 Security Vulnerability Report
-
+<img width="1440" alt="Screenshot 2024-10-05 at 8 03 03 PM" src="https://github.com/user-attachments/assets/63f63b27-315b-44d6-acae-79a4b8fed8e5">
  
